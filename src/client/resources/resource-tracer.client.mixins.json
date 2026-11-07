@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.nonamer.resourcetracer.client.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"Mixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
